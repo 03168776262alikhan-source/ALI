@@ -19,5 +19,13 @@
     "updateUrl": "https://api.whatsapp.com/send?phone=+9203138082334&text="
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "DPMods-LT288R": {
+      "hwid": "6717F84BE42F55E1",
+      "expireDate": "2026-10-10",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
