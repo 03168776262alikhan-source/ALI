@@ -19,13 +19,5 @@
     "updateUrl": "https://api.whatsapp.com/send?phone=+9203138082334&text="
   },
   "BannedHWIDs": {},
-  "Keys": {
-    "DPMods-4YCVRV": {
-      "hwid": "6717F84BE42F55E1",
-      "expireDate": "2027-11-21",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    }
-  }
+  "Keys": {}
 }
