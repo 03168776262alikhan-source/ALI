@@ -28,6 +28,13 @@
       "isBanned": false,
       "banReason": "Hi",
       "userRank": "Supreme User"
+    },
+    "DPMods-4YCVRV": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-10",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
