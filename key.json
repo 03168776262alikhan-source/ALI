@@ -1,6 +1,6 @@
 {
   "AppConfig": {
-    "bannerText": "Awaiting Authentication.",
+    "bannerText": "MODDED BY (ALI.45)",
     "getKeyText": "🔑 Get Key ↗️",
     "getKeyUrl": "https://api.whatsapp.com/send?phone=+9203138082334&text=",
     "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
@@ -13,10 +13,10 @@
       "🚀 (ALI.45) 🚀",
       "🛠 Stable Build. 🇵🇰 PAKISTANI 🇵🇰"
     ],
-    "title": "DPMods Core",
+    "title": "YOU NEED TO ACCESS CLICK ON (GET KEY)",
     "updateMsg": "New DPMods version available! Please update.",
     "updateRequired": false,
-    "updateUrl": "https://t.me/dpmodsdialog"
+    "updateUrl": "https://api.whatsapp.com/send?phone=+9203138082334&text="
   },
   "BannedHWIDs": {
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
