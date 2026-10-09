@@ -41,7 +41,7 @@
     "DPMods-2PXRWJ": {
       "hwid": "6717F84BE42F55E1",
       "expireDate": "2026-10-10",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
